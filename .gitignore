@@ -1,8 +1,8 @@
 ﻿
-04product/shooting_range_in/.externalToolBuilders/
-04product/shooting_range_in/.settings/
-04product/shooting_range_in/target/
-04product/shooting_range_in/.classpath
-04product/shooting_range_in/.mymetadata
-04product/shooting_range_in/.project
-04product/shooting_range_in/.myeclipse/
+.externalToolBuilders/
+.settings/
+target/
+.classpath
+.mymetadata
+.project
+.myeclipse/
